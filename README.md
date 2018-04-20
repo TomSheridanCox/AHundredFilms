@@ -1,5 +1,5 @@
 # AHundredFilms
 
-A list of my favourite films, rated by myself.
+A list of my favourite films.
 
 https://tomsheridancox.github.io/AHundredFilms/
