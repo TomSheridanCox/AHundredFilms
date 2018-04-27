@@ -1,5 +1,5 @@
 # AHundredFilms
 
-A list of my favourite films, including short films.
+A list of films that once were or may still be my favourites, including short films.
 
 https://tomsheridancox.github.io/AHundredFilms/
